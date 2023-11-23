@@ -1,4 +1,4 @@
-## IMPLEMENTASI CNN (CONVOLUTIONAL NEURAL NETWORK) UNTUK DETEKSI MASKER (PYTHON + KERAS + FLASK + BOOTSTRAP)
+## CNN IMPLEMENTATION (CONVOLUTIONAL NEURAL NETWORK) FOR MASK DETECTION (PYTHON + KERAS + FLASK + BOOTSTRAP)
 
 <br>
 
@@ -6,9 +6,9 @@
 
 ![](https://i.imgur.com/Zg3YohJ.gif)
 
-## Aplikasi Dibuat dan Dikembangan Oleh : 
+## Application Developed and Enhanced By: 
 
-NAMA | NIM
+NAME | NIM
 ------------ | -------------
 Dimas Priambodo                   |(18.11.2032)
 Akhid Yanuar A.F                  |(18.11.2065)
@@ -16,7 +16,7 @@ Elsa Virantika                    |(18.11.2067)
 Arya Yoga Widyatama               |(18.11.2080)
 Fachrudin Efendi                  |(18.11.2087)
 
-## Resource & Dataset
+## Resources & Dataset
 
 - https://drive.google.com/file/d/1mdGtZRqQWR5ivfpCgjx2rTTSXcd-2UNB/view?usp=sharing
 - https://github.com/Chints7323/Mask_nomask-detection-using-live-Laptop-mobile-Cam
@@ -35,8 +35,4 @@ Fachrudin Efendi                  |(18.11.2087)
 - Akhid Yanuar A.F [https://youtu.be/53Iq4Oet04A](https://youtu.be/53Iq4Oet04A) 
 - Elsa Virantika [https://youtu.be/5Afwpc1Pjck](https://youtu.be/5Afwpc1Pjck)
 - Arya Yoga Widyatama [https://youtu.be/Ka_N8feLqPY](https://youtu.be/Ka_N8feLqPY) 
-- Fachrudin Efendi [https://youtu.be/ZwXZUy3KoG0](https://youtu.be/ZwXZUy3KoG0) 
-
-
-
-
+- Fachrudin Efendi [https://youtu.be/ZwXZUy3KoG0](https://youtu.be/ZwXZUy3KoG0)
